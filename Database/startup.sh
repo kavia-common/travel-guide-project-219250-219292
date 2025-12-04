@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Minimal PostgreSQL startup script with full paths
+# Note: This container intentionally does NOT start any Node.js apps.
+# The db_visualizer tool is optional and should be started manually (see db_visualizer/README.md).
 DB_NAME="myapp"
 DB_USER="appuser"
 DB_PASSWORD="dbuser123"
