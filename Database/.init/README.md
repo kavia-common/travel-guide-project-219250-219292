@@ -13,3 +13,4 @@ Notes:
 - There is intentionally no reference to any 'db_visualizer' directory.
 - Do not change working_directory to invalid paths.
 - Keep commands within this Database directory to avoid relative path issues in CI.
+- The project manifest .project_manifest.yaml also explicitly sets working_directory to travel-guide-project-219250-219292/Database to prevent any orchestrator from cd'ing into a non-existent db_visualizer path.
