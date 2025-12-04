@@ -24,3 +24,5 @@ Usage:
 Notes:
 - This container is CI-friendly and will not fail if db_connection.txt is missing or empty; psql_test.sh will skip gracefully.
 - All SQL must be executed one statement at a time via psql -c "SQL_STATEMENT".
+
+No-op refresh: Updated at 2025-12-04T00:05:00Z to trigger preview re-sync. No functional changes.
