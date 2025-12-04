@@ -1,2 +1,2 @@
-{ "working_directory": "/home/kavia/workspace/code-generation",
- "command": "chmod +x startup.sh && sudo ./startup.sh &" }
+{ "working_directory": "/home/kavia/workspace/code-generation/travel-guide-project-219250-219292/Database",
+ "command": "chmod +x ./startup.sh && ./startup.sh" }
