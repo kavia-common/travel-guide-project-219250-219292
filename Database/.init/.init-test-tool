@@ -1,2 +1,2 @@
 { "working_directory": "/home/kavia/workspace/code-generation/travel-guide-project-219250-219292/Database",
- "command": "bash ./psql_test.sh" }
+  "command": "./psql_test.sh" }
